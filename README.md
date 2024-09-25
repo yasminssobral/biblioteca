@@ -16,6 +16,9 @@ You may also see any lint errors in the console.
 
 ### aula 25/09
 
-- instalar styled-compenents
-- 
+- instalamos styled-compenents
+- aplicamos estilos aos compenetes pelo styled-components
+- criamos o estilo grobal pelo styled
+- adicionamos um icon ao public
+- alteramos o index.html no chamado do logo e retirando os comentários
 
